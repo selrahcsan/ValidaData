@@ -9,7 +9,7 @@ Exemplo de Validação da Datas .net 6.0 em C#
 ### Clonar respositório :
 
 ```bash
-git clone https://github.com/selrahcsan/ValidarDataCCharp.git  
+git clone https://github.com/selrahcsan/ValidaData.git  
 ```
 
 ### Compilar:
