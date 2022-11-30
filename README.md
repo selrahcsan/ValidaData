@@ -1,4 +1,4 @@
-# Exemplo: Validar Data em c#
+# Exemplo: Validar Data em C#
 
 Exemplo de Validação da Datas .net 6.0 em C# 
 
